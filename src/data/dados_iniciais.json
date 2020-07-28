@@ -1,29 +1,29 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Data Structures",
+      "link": "https://www.alura.com.br/curso-online-estrutura-de-dados-python",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "From basic to advanced",
+        "url": "https://www.youtube.com/results?search_query=data+structures+and+algorithms"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Crash Course: Data Structures.",
+          "url": "https://www.youtube.com/watch?v=DuDz6B4cqVc"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Data Structures and Algorithms in Java",
+          "url": "https://www.youtube.com/watch?v=BBpAmxU_NQo"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Data Structures & Algorithms #1 - What Are Data Structures?",
+          "url": "https://www.youtube.com/watch?v=bum_19loj9A"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer",
+          "url": "https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD"
         },
         {
           "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
